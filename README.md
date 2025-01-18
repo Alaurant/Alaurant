@@ -1,16 +1,25 @@
-## Hi there 👋
+## Hi there 👋 I'm Danyang Zhao
 
-<!--
-**Alaurant/Alaurant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+An Information Technology graduate based in Brisbane, passionate about Java development and open source.
 
-Here are some ideas to get you started:
+### 🌟 Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 Google Summer of Code 2024 Contributor
+- 🤝 Open source contributor to Jenkins and GitHub ecosystem
+- 💼 Looking for Back-end Developer positions in Brisbane
+
+### 💻 Technical Experience
+
+- **Open Source Contributions**
+  - Java API for GitHub (hub4j/github-api)
+    - Add autolink reference function [#1987](https://github.com/hub4j/github-api/pull/1987)
+    - Add option to fork default branch only [#1995](https://github.com/hub4j/github-api/pull/1995)
+
+- **Jenkins (Google Summer of Code 2024)**
+  - Project: Manage Jenkinsci GitHub permissions as code
+  - [Project Details](https://www.jenkins.io/projects/gsoc/2024/project-ideas/automating-rpu-for-jenkinsci-organization/)
+  - [Project Summary](https://www.jenkins.io/blog/2024/08/26/gsoc-manage-github-permissions/)
+
+### 🔧 Skills
+- **Backend:** Java (Spring Boot, Maven), Python
+- **DevOps:** Git, Jenkins
