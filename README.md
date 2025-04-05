@@ -1,12 +1,11 @@
 ## Hi there 👋 I'm Danyang Zhao
 
-An Information Technology graduate based in Brisbane, passionate about Java development and open source.
+A Software Engineer passionate about Java, C# and open source.
 
 ### 🌟 Highlights
 
 - 🎓 Google Summer of Code 2024 Contributor
-- 🤝 Open source contributor to Jenkins and GitHub ecosystem
-- 💼 Looking for Back-end Developer positions in Brisbane
+- 🤝 Open source contributor to Jenkins and the GitHub ecosystem
 
 ### 💻 Technical Experience
 
@@ -21,5 +20,6 @@ An Information Technology graduate based in Brisbane, passionate about Java deve
   - [Project Summary](https://www.jenkins.io/blog/2024/08/26/gsoc-manage-github-permissions/)
 
 ### 🔧 Skills
-- **Backend:** Java (Spring Boot, Maven), Python
-- **DevOps:** Git, Jenkins
+- **Backend:** Java (Spring Boot, Maven), C# (.NET), RESTful APIs, Python
+- **Frontend:** React, JavaScript, HTML, CSS
+- **DevOps:** Git, GitHub Actions, Jenkins, CI/CD pipelines
